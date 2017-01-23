@@ -12,7 +12,7 @@ Is an SDK which sends data about your application to our servers. You can then s
 * Use AA_Enable (true / false) to enable tracking of your app.
 * Use AA_Start and AA_Stop, to signal the start and stop of your application.
 
-### C#
+### C\# 
 * Load the dll (see c# sample for example)
 * Get your app id from AdvancedInstaller or from [InstallerAnalytics](https://installeranalytics.com)
 * Replace the default app id and version with your own.
